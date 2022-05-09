@@ -1,4 +1,5 @@
 export default function Amobile () {
+    
     return (
         <div class="actions-mobile">
         <ion-icon name="home"></ion-icon>
